@@ -1,0 +1,26 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "denemeeee",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^5.7.11",
+    "nodemailer": "^6.3.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mami": "echo 'aaaaa'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuhammetDeregozu/Test.git"    
+  },
+  "keywords": [
+    "deneme",
+    "mami"
+  ],
+  "author": "MuhammetDeregozu",
+  "license": "ISC"
+}
